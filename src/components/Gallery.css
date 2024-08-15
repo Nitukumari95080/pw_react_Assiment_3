@@ -1,0 +1,10 @@
+/* src/components/Gallery.css */
+
+.gallery{
+    display: grid;
+    grid-column: 3;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    width: 100%;
+}
